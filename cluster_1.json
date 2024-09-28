@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "name": "Progressive House Cluster",
+      "id": "cluster_ph",
+      "artists": [
+        {
+          "id": "L52PY",
+          "size": 0.5,
+          "coordinates": [0, 0]
+        },
+        {
+          "id": "VvMgB",
+          "size": 0.9,
+          "coordinates": [10, 10]
+        },
+        {
+          "id": "D9vma",
+          "size": 0.2,
+          "coordinates": [-10, -10]
+        }
+      ]
+    },
+    {
+      "name": "Electro House Cluster",
+      "id": "cluster_eh",
+      "artists": [
+        {
+          "id": "eAZl3",
+          "size": 0.3,
+          "coordinates": [75, 75]
+        },
+        {
+          "id": "e4wbD",
+          "size": 1,
+          "coordinates": [70, 74]
+        },
+        {
+          "id": "LKgaO",
+          "size": 0.2,
+          "coordinates": [77, 78]
+        }
+      ]
+    },
+    {
+      "name": "Weezer Cluster",
+      "id": "cluster_w",
+      "artists": [
+        {
+          "id": "eYPZm",
+          "size": 0.5,
+          "coordinates": [-10, 100]
+        },
+        {
+          "id": "DvZJm",
+          "size": 0.4,
+          "coordinates": [-20, 105]
+        },
+        {
+          "id": "v7yE8",
+          "size": 0.7,
+          "coordinates": [-15, -125]
+        }
+      ]
+    }
+  ]
+}

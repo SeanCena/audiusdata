@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "name": "Subcluster 1",
+      "id": "cluster_1",
+      "artists": [
+        {
+          "id": "L52PY",
+          "size": 0.5,
+          "coordinates": [0, 0]
+        },
+        {
+          "id": "VvMgB",
+          "size": 0.9,
+          "coordinates": [46, 52]
+        },
+        {
+          "id": "D9vma",
+          "size": 0.2,
+          "coordinates": [-23, -40]
+        }
+      ]
+    },
+    {
+      "name": "Subcluster 2",
+      "id": "cluster_2",
+      "artists": [
+        {
+          "id": "eAZl3",
+          "size": 0.3,
+          "coordinates": [300, 300]
+        },
+        {
+          "id": "e4wbD",
+          "size": 1,
+          "coordinates": [240, 315]
+        },
+        {
+          "id": "LKgaO",
+          "size": 0.2,
+          "coordinates": [280, 255]
+        }
+      ]
+    },
+    {
+      "name": "Subcluster 3",
+      "id": "cluster_3",
+      "artists": [
+        {
+          "id": "eYPZm",
+          "size": 0.5,
+          "coordinates": [-400, -100]
+        },
+        {
+          "id": "DvZJm",
+          "size": 0.4,
+          "coordinates": [-400, -150]
+        },
+        {
+          "id": "v7yE8",
+          "size": 0.7,
+          "coordinates": [-417, -125]
+        }
+      ]
+    }
+  ]
+}
