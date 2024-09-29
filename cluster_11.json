@@ -3,6 +3,7 @@
         {
             "name": "Top Cluster 11, Sub-cluster 1",
             "id": "cluster_11-_1",
+            "color": "#8000ff",
             "artists": [
                 {
                     "id": "KEWxy",
@@ -1345,6 +1346,7 @@
         {
             "name": "Top Cluster 11, Sub-cluster 2",
             "id": "cluster_11-_2",
+            "color": "#2c7ef7",
             "artists": [
                 {
                     "id": "n3wVq",
@@ -2591,6 +2593,7 @@
         {
             "name": "Top Cluster 11, Sub-cluster 3",
             "id": "cluster_11-_3",
+            "color": "#2adddd",
             "artists": [
                 {
                     "id": "ePMop",
@@ -3469,6 +3472,7 @@
         {
             "name": "Top Cluster 11, Sub-cluster 4",
             "id": "cluster_11-_4",
+            "color": "#80ffb4",
             "artists": [
                 {
                     "id": "ePb1L",
@@ -4035,6 +4039,7 @@
         {
             "name": "Top Cluster 11, Sub-cluster 5",
             "id": "cluster_11-_5",
+            "color": "#d4dd80",
             "artists": [
                 {
                     "id": "nd02n",
@@ -4313,6 +4318,7 @@
         {
             "name": "Top Cluster 11, Sub-cluster 6",
             "id": "cluster_11-_6",
+            "color": "#ff7e41",
             "artists": [
                 {
                     "id": "nZ74J",
@@ -5455,6 +5461,7 @@
         {
             "name": "Top Cluster 11, Sub-cluster 7",
             "id": "cluster_11-_7",
+            "color": "#ff0000",
             "artists": [
                 {
                     "id": "DX4bZ",

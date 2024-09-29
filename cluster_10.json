@@ -3,6 +3,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 1",
             "id": "cluster_10-_1",
+            "color": "#8000ff",
             "artists": [
                 {
                     "id": "Dy27e",
@@ -529,6 +530,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 2",
             "id": "cluster_10-_2",
+            "color": "#4856fb",
             "artists": [
                 {
                     "id": "eYo6y",
@@ -975,6 +977,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 3",
             "id": "cluster_10-_3",
+            "color": "#10a2f0",
             "artists": [
                 {
                     "id": "m17vA",
@@ -1605,6 +1608,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 4",
             "id": "cluster_10-_4",
+            "color": "#2adddd",
             "artists": [
                 {
                     "id": "dEKBy",
@@ -2755,6 +2759,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 5",
             "id": "cluster_10-_5",
+            "color": "#62fbc4",
             "artists": [
                 {
                     "id": "YoE4W",
@@ -4241,6 +4246,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 6",
             "id": "cluster_10-_6",
+            "color": "#9cfba4",
             "artists": [
                 {
                     "id": "DyN8w",
@@ -5783,6 +5789,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 7",
             "id": "cluster_10-_7",
+            "color": "#d4dd80",
             "artists": [
                 {
                     "id": "napqE",
@@ -7181,6 +7188,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 8",
             "id": "cluster_10-_8",
+            "color": "#ffa256",
             "artists": [
                 {
                     "id": "k22GV",
@@ -8963,6 +8971,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 9",
             "id": "cluster_10-_9",
+            "color": "#ff562c",
             "artists": [
                 {
                     "id": "nQG34",
@@ -9377,6 +9386,7 @@
         {
             "name": "Top Cluster 10, Sub-cluster 10",
             "id": "cluster_10-_10",
+            "color": "#ff0000",
             "artists": [
                 {
                     "id": "LMrVQ",

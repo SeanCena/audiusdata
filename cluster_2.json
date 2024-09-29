@@ -3,6 +3,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 1",
             "id": "cluster_2-_1",
+            "color": "#8000ff",
             "artists": [
                 {
                     "id": "Mjoxx",
@@ -889,6 +890,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 2",
             "id": "cluster_2-_2",
+            "color": "#4856fb",
             "artists": [
                 {
                     "id": "ygg1P",
@@ -1159,6 +1161,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 3",
             "id": "cluster_2-_3",
+            "color": "#10a2f0",
             "artists": [
                 {
                     "id": "n3kzE",
@@ -1789,6 +1792,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 4",
             "id": "cluster_2-_4",
+            "color": "#2adddd",
             "artists": [
                 {
                     "id": "NzpG2b4",
@@ -2643,6 +2647,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 5",
             "id": "cluster_2-_5",
+            "color": "#62fbc4",
             "artists": [
                 {
                     "id": "NzkAN",
@@ -3105,6 +3110,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 6",
             "id": "cluster_2-_6",
+            "color": "#9cfba4",
             "artists": [
                 {
                     "id": "8P6bz8a",
@@ -4623,6 +4629,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 7",
             "id": "cluster_2-_7",
+            "color": "#d4dd80",
             "artists": [
                 {
                     "id": "XlJby",
@@ -6005,6 +6012,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 8",
             "id": "cluster_2-_8",
+            "color": "#ffa256",
             "artists": [
                 {
                     "id": "2o316",
@@ -7099,6 +7107,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 9",
             "id": "cluster_2-_9",
+            "color": "#ff562c",
             "artists": [
                 {
                     "id": "LjzGL",
@@ -7673,6 +7682,7 @@
         {
             "name": "Top Cluster 2, Sub-cluster 10",
             "id": "cluster_2-_10",
+            "color": "#ff0000",
             "artists": [
                 {
                     "id": "EyZZM",

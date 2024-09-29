@@ -3,6 +3,7 @@
         {
             "name": "Top Cluster 1",
             "id": "cluster_1",
+            "color": "#8000ff",
             "artists": [
                 {
                     "id": "eJ5Qz",
@@ -7033,6 +7034,7 @@
         {
             "name": "Top Cluster 2",
             "id": "cluster_2",
+            "color": "#5e35fe",
             "artists": [
                 {
                     "id": "XlJby",
@@ -12527,6 +12529,7 @@
         {
             "name": "Top Cluster 3",
             "id": "cluster_3",
+            "color": "#3c68f9",
             "artists": [
                 {
                     "id": "DvKNm",
@@ -18445,6 +18448,7 @@
         {
             "name": "Top Cluster 4",
             "id": "cluster_4",
+            "color": "#1996f3",
             "artists": [
                 {
                     "id": "b9w8J",
@@ -23691,6 +23695,7 @@
         {
             "name": "Top Cluster 5",
             "id": "cluster_5",
+            "color": "#08bee9",
             "artists": [
                 {
                     "id": "DrZwG",
@@ -31081,6 +31086,7 @@
         {
             "name": "Top Cluster 6",
             "id": "cluster_6",
+            "color": "#2adddd",
             "artists": [
                 {
                     "id": "v7VQz",
@@ -36007,6 +36013,7 @@
         {
             "name": "Top Cluster 7",
             "id": "cluster_7",
+            "color": "#4df3ce",
             "artists": [
                 {
                     "id": "Qx36v",
@@ -38741,6 +38748,7 @@
         {
             "name": "Top Cluster 8",
             "id": "cluster_8",
+            "color": "#6efebe",
             "artists": [
                 {
                     "id": "DXQ6R",
@@ -46339,6 +46347,7 @@
         {
             "name": "Top Cluster 9",
             "id": "cluster_9",
+            "color": "#90feab",
             "artists": [
                 {
                     "id": "LKwjz",
@@ -53889,6 +53898,7 @@
         {
             "name": "Top Cluster 10",
             "id": "cluster_10",
+            "color": "#b2f396",
             "artists": [
                 {
                     "id": "dEKBy",
@@ -60495,6 +60505,7 @@
         {
             "name": "Top Cluster 11",
             "id": "cluster_11",
+            "color": "#d4dd80",
             "artists": [
                 {
                     "id": "KEWxy",
@@ -64181,6 +64192,7 @@
         {
             "name": "Top Cluster 12",
             "id": "cluster_12",
+            "color": "#f6be68",
             "artists": [
                 {
                     "id": "vJqQz",
@@ -69307,6 +69319,7 @@
         {
             "name": "Top Cluster 13",
             "id": "cluster_13",
+            "color": "#ff964f",
             "artists": [
                 {
                     "id": "JE8Q7",
@@ -73705,6 +73718,7 @@
         {
             "name": "Top Cluster 14",
             "id": "cluster_14",
+            "color": "#ff6835",
             "artists": [
                 {
                     "id": "lzAkA",
@@ -76439,6 +76453,7 @@
         {
             "name": "Top Cluster 15",
             "id": "cluster_15",
+            "color": "#ff351b",
             "artists": [
                 {
                     "id": "RK9AK",
@@ -82341,6 +82356,7 @@
         {
             "name": "Top Cluster 16",
             "id": "cluster_16",
+            "color": "#ff0000",
             "artists": [
                 {
                     "id": "VP15B",

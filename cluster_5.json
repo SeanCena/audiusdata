@@ -3,6 +3,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 1",
             "id": "cluster_5-_1",
+            "color": "#8000ff",
             "artists": [
                 {
                     "id": "LMJWG",
@@ -2217,6 +2218,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 2",
             "id": "cluster_5-_2",
+            "color": "#4856fb",
             "artists": [
                 {
                     "id": "BRNYAkp",
@@ -4247,6 +4249,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 3",
             "id": "cluster_5-_3",
+            "color": "#10a2f0",
             "artists": [
                 {
                     "id": "qEmX2",
@@ -5709,6 +5712,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 4",
             "id": "cluster_5-_4",
+            "color": "#2adddd",
             "artists": [
                 {
                     "id": "ozvzJ",
@@ -6875,6 +6879,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 5",
             "id": "cluster_5-_5",
+            "color": "#62fbc4",
             "artists": [
                 {
                     "id": "nd7oM",
@@ -7361,6 +7366,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 6",
             "id": "cluster_5-_6",
+            "color": "#9cfba4",
             "artists": [
                 {
                     "id": "em7Np",
@@ -8703,6 +8709,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 7",
             "id": "cluster_5-_7",
+            "color": "#d4dd80",
             "artists": [
                 {
                     "id": "wPyaW",
@@ -9789,6 +9796,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 8",
             "id": "cluster_5-_8",
+            "color": "#ffa256",
             "artists": [
                 {
                     "id": "DrZwG",
@@ -10379,6 +10387,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 9",
             "id": "cluster_5-_9",
+            "color": "#ff562c",
             "artists": [
                 {
                     "id": "N68Qp",
@@ -11305,6 +11314,7 @@
         {
             "name": "Top Cluster 5, Sub-cluster 10",
             "id": "cluster_5-_10",
+            "color": "#ff0000",
             "artists": [
                 {
                     "id": "D9Rw2",

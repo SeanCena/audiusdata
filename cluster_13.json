@@ -3,6 +3,7 @@
         {
             "name": "Top Cluster 13, Sub-cluster 1",
             "id": "cluster_13-_1",
+            "color": "#8000ff",
             "artists": [
                 {
                     "id": "JE8Q7",
@@ -1281,6 +1282,7 @@
         {
             "name": "Top Cluster 13, Sub-cluster 2",
             "id": "cluster_13-_2",
+            "color": "#386df9",
             "artists": [
                 {
                     "id": "nZ2Wq",
@@ -2079,6 +2081,7 @@
         {
             "name": "Top Cluster 13, Sub-cluster 3",
             "id": "cluster_13-_3",
+            "color": "#12c8e6",
             "artists": [
                 {
                     "id": "OPdAZ",
@@ -3669,6 +3672,7 @@
         {
             "name": "Top Cluster 13, Sub-cluster 4",
             "id": "cluster_13-_4",
+            "color": "#5af8c8",
             "artists": [
                 {
                     "id": "R98GX",
@@ -4763,6 +4767,7 @@
         {
             "name": "Top Cluster 13, Sub-cluster 5",
             "id": "cluster_13-_5",
+            "color": "#a4f89f",
             "artists": [
                 {
                     "id": "P5QJR",
@@ -5073,6 +5078,7 @@
         {
             "name": "Top Cluster 13, Sub-cluster 6",
             "id": "cluster_13-_6",
+            "color": "#ecc86f",
             "artists": [
                 {
                     "id": "noGKg",
@@ -5383,6 +5389,7 @@
         {
             "name": "Top Cluster 13, Sub-cluster 7",
             "id": "cluster_13-_7",
+            "color": "#ff6d38",
             "artists": [
                 {
                     "id": "KKZQr",
@@ -6165,6 +6172,7 @@
         {
             "name": "Top Cluster 13, Sub-cluster 8",
             "id": "cluster_13-_8",
+            "color": "#ff0000",
             "artists": [
                 {
                     "id": "DrBqQ",
